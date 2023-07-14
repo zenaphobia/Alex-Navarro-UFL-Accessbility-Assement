@@ -57,5 +57,7 @@ ul#footer {
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
+}
+ul#footer a {
 	color: #214D73;
 }
