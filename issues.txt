@@ -1,0 +1,8 @@
+Images lacking alt text
+    - HTML needs lang atr √
+    - line #19 <img src="resources/hogwarts.png"> √
+    - Missing top level header text H1 √
+    - Use semantic markup on footer, e.g don't use tables
+    - Too low contrast on text on footer
+    - Ambiguous link tags | Lines 119-123: We should be able to determine the purpose of a link based on the link text alone. e.g change to "Learn more about Harry Potter", etc.
+    - Wrong lang attribute for span element on 113, zh is the code for the Chinese language, should be la
